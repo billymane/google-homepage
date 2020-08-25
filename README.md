@@ -1,0 +1,1 @@
+This will be my first mini-project @ The Odin Project. I will deconstruct an existing web page and rebuild it.
